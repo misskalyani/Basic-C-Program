@@ -1,12 +1,13 @@
 #include <stdio.h>  
-struct student  
+#pragma pack(1)  
+struct base  
 {  
-   char a;  
-   char b;  
-   int c;  
+    int a;  
+    char b;  
+    double c;  
 };  
 int main()  
 {  
-   struct student stud1; 
-   printf("The size of the student structure is %d", sizeof(stud1));  
+  struct base var; 
+  printf("The size of the var is : %d", sizeof(var));  
 }  
