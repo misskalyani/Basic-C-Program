@@ -1,18 +1,18 @@
 #include<stdio.h>
 int fib(int n)
 {
-	if(n==1 ||n==2)
+	if(n==0)
 	  return 0;
     if(n>2)
 	  return fib(n-2)+fib(n-1);  
 }
 int main()
 {
-	int l,i;
+	int n,i;
 	printf("Enter Limit::");
-	scanf("%d",&l);
-	for(i=1;i<=1;i++)
+	scanf("%d",&n);
+	for(i=0;i<=n;i++)
 	{
-		printf("\n%d",fib(i));
+		printf("%d\t",fib(i));
 	}
 }
