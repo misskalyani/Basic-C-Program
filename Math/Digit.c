@@ -9,7 +9,7 @@ int main()
 		printf("Character Is Digit");
 	}
 	else
-	{
-		printf("Character Is NOT Digit");
-	}
+	 {
+		 printf("Character Is NOT Digit");
+	 }
 }
