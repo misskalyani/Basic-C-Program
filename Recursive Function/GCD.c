@@ -6,6 +6,7 @@ int gcd(int x,int y)
 	else
 	  return gcd(y,x%y);
 }
+/*kalyani
 void main()
 {
 	int x,y;
