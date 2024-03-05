@@ -12,6 +12,7 @@ int reverse(int n)
 	}
 	return r;
 }
+/*kalyani
 int main()
 {
 	printf("\nReverse Number=%d",reverse(341));	
