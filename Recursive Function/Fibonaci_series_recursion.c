@@ -12,6 +12,7 @@ void series(int f,int s,int n)
 	}
 		
 }
+/*kalyani
 void main()
 {
 	printf("01");
