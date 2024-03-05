@@ -10,6 +10,7 @@ int main()
  	printf("Factorial of a number %d is %d",num,f); 
  	return 0; 
 } 
+/*kalyani
 int fact(int f) 
 { 
  	if (f==1) 
