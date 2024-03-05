@@ -12,6 +12,7 @@ int rev(int n)
 		return sum;
 	}
 }
+/*kalyani
 int main()
 {
 	int n;
