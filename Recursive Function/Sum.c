@@ -6,6 +6,7 @@ int sum(int n)
 	else
 	  return n%10+(n/10);
 }
+/*kalyani1311
 void main()
 {
 	int n,s;
