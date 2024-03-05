@@ -6,6 +6,7 @@ int sum(int n)
 	else
 	    return n%10+sum(n/10);
 }
+/*kalyani
 void main()
 {
 	int n,ans;
