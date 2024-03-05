@@ -6,6 +6,7 @@ int power(int x,int y)
 	else
 	  return x*power(x,y-1);  
 }
+/*kalyani
 void main()
 {
 	int x,y;
