@@ -11,6 +11,7 @@ void series(int n)
 		series(n-1);
 	}
 }
+/*kalyani
 int main()
 {
 	series(10);
