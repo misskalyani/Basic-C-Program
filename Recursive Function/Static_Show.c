@@ -5,6 +5,7 @@ void show()
 	n++;
 	printf("\n Value=%d",n);
 }
+/*kalyani
 int main()
 {
 	show();
