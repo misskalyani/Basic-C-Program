@@ -10,6 +10,7 @@ int main ()
      {
          if((i==2  && j==2) ||(i==2  &&  j==3)  ||(i==3  &&  j==2)   ||(i==3 && j==3 ) )
          printf("   ");
+         /*kalynai Chaudhari 
          else
          printf(" * ");
      }
