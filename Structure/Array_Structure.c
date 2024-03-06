@@ -12,7 +12,7 @@ void main()
 	void accept(stud s[],int n);
 	void disp(stud s[],int n);
 	printf("\nEnter The Number Of Students\n");
-	scanf("%d",&n);
+	scanf("%d",&n);/*kalyani Chaudhari 
 	accept(s,n);
 	disp(s,n);
 }
