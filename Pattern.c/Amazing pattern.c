@@ -10,6 +10,7 @@ int main ()
      {
          if(i==2  && j==2 )
          printf("   ");
+         /*kalyani Chaudhari 
          else
          printf(" * ");
      }
