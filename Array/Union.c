@@ -12,6 +12,7 @@ void main()
 			scanf("%d",&a[i]);
 	}
 	printf("\nSecond Array Element Are:: ");
+/*kalyani Chaudhari 
 	for(i=0;i<n1;i++)
 	{
 			scanf("%d",&b[i]);
