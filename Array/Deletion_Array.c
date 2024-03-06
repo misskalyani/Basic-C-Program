@@ -9,6 +9,7 @@ int main()
 	for(i=0;i<size;i++) 
  	printf("%d ",a[i]); 
 	printf("\nEnter index of the element to be deleted :\n"); 
+/*kalyani Chaudhari 
 	scanf("%d", &index); 
 	if(index<0 || index>size-1) 
 	{ 
