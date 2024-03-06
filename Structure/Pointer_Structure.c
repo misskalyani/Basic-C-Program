@@ -13,7 +13,7 @@ void main()
 	struct student s2={"BBB",10,76.8};
 	modify(&s1);
 	modify(&s2);
-	printf("\nThe Modify Values Are::");
+	printf("\nThe Modify Values Are::");/*kalyani Chaudhari 
 	disp(s1);
 	disp(s2);
 }
