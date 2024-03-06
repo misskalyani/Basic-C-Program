@@ -17,6 +17,7 @@ int main()
  	printf("\nEnter the element to be inserted :\n"); 
  	scanf("%d", &element); 
  	printf("Enter the index where element to be inserted:\n"); 
+/*kalyani Chaudhari 
  	scanf("%d", &index); 
  	if(index<0 || index>size-1) 
  	{ 
