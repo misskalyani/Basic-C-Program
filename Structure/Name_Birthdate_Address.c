@@ -12,7 +12,7 @@
  	struct person p[20];
  	int n,i;
  	printf("\nEnter Number Of Person::");
- 	scanf("%d",&n);
+ 	scanf("%d",&n);/*by kalyani Chaudhari 
  	for(i=0;i<n;i++)
  	{
  		printf("\nEnter Name And Address Of Person::");
