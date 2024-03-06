@@ -7,6 +7,7 @@ void main()
 	printf("Enter Second Array Limit::");
 	scanf("%d",&n1);
     printf("\nFirst Array Element Are:: ");
+/*kalyani Chaudhari 
 	for(i=0;i<n;i++)
 	{
 			scanf("%d",&a[i]);
