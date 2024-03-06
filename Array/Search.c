@@ -14,6 +14,7 @@ int Search(int s1[],int n,int num)
 	}
 	return -1;
 }
+/*kalyani Chaudhari 
 int main()
 {
 	int i,n,flag,num,s1[20];
