@@ -13,6 +13,7 @@ int Search(int s1[],int n,int num)
 	       f=1;
 	    }
 	}
+/*kalyani Chaudhari 
 	if(f==1)
 	   return cnt;
 	else
