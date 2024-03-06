@@ -9,6 +9,7 @@ void main(int argc,char *argv[])
 		printf("Invalid No of Arguments");
 		exit(0);
 	}
+/*kalyani Chaudhari 
 	fp=fopen(argv[1],"r");
 	printf("\n The data in the File\n::");
 	while(!feof(fp))
