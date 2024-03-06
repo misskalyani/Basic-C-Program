@@ -11,6 +11,7 @@
  		int ch; 
  		printf("Array Menu"); 
  		printf("\n1.Create\n2.Insert\n3.Delete\n4.Display\n5.Exit"); 
+/*kalyani Chaudhari 
  		while(1) 
  		{ 
 			 printf("\nEnter your choice::"); 
