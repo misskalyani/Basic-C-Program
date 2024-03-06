@@ -8,6 +8,7 @@ void accept(int a[],int n)
 		scanf("\t%d\t",&a[i]);
 	}
 }
+/*kalyani Chaudhari 
 void disp(int a[],int n)
 {
 	int i;
