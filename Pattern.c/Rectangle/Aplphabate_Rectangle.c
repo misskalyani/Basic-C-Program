@@ -6,6 +6,7 @@ int main()
 	scanf("%d",&r);
 	printf("Enter number of columns : ");
 	scanf("%d",&c);
+  /*kalyani
 	for(i=1;i<=r;i++)
 	{
 		for(j=1;j<=c;j++)
