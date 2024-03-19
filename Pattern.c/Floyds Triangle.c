@@ -8,7 +8,7 @@ void main()
 	{
 		for(c=1;c<=r;c++)
 		{
-			printf("%d\t",count++);/*kalyani
+			printf("%d\t",count++);
 		}
 		printf("\n");
 	}
